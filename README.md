@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pvisuth/DeployTestCluster/_apis/build/status/pvgithub9.pipelines-java?branchName=main)](https://dev.azure.com/pvisuth/DeployTestCluster/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
